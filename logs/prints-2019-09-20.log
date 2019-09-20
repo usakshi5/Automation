@@ -1,0 +1,8 @@
+15:11:06.890 [main] INFO  com.phpProject.BaseClass - Navigated to home page
+15:11:17.036 [main] INFO  com.phpProject.BaseClass - Signed in
+15:11:24.685 [main] INFO  com.phpProject.BaseClass - Signed out
+16:07:49.179 [main] INFO  com.phpProject.BaseClass - Navigated to home page
+16:08:07.341 [main] INFO  com.phpProject.BaseClass - Signed in
+16:08:14.000 [main] INFO  com.phpProject.BaseClass - Signed out
+16:08:30.349 [main] INFO  com.phpProject.BaseClass - navigation test started
+16:08:30.509 [main] INFO  com.phpProject.BaseClass - navigation tested

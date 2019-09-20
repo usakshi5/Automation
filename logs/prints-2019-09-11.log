@@ -1,0 +1,7 @@
+12:28:26.482 [main] INFO  com.phpProject.BaseClass - Navigated to home page
+12:28:37.012 [main] INFO  com.phpProject.BaseClass - Signed in
+12:28:44.597 [main] INFO  com.phpProject.BaseClass - Signed out
+12:29:01.011 [main] INFO  com.phpProject.BaseClass - navigation test started
+12:29:01.173 [main] INFO  com.phpProject.BaseClass - navigation tested
+12:29:01.174 [main] INFO  com.phpProject.BaseClass - search text test started
+12:29:01.983 [main] INFO  com.phpProject.BaseClass - search text tested

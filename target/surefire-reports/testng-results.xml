@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-11T12:28:20 PDT" name="Suite" finished-at="2019-09-11T12:29:02 PDT" duration-ms="42061">
+    <groups>
+    </groups>
+    <test started-at="2019-09-11T12:28:20 PDT" name="Test" finished-at="2019-09-11T12:28:48 PDT" duration-ms="28738">
+      <class name="com.phpProject.HomepageTest">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.phpProject.HomepageTest@7d9e8ef7]" started-at="2019-09-11T12:28:20 PDT" name="initializeBrowser" finished-at="2019-09-11T12:28:33 PDT" duration-ms="12907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="loginTest()[pri:0, instance:com.phpProject.HomepageTest@7d9e8ef7]" started-at="2019-09-11T12:28:33 PDT" name="loginTest" finished-at="2019-09-11T12:28:44 PDT" duration-ms="11373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.phpProject.HomepageTest@7d9e8ef7]" started-at="2019-09-11T12:28:44 PDT" name="teardown" finished-at="2019-09-11T12:28:48 PDT" duration-ms="4391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.phpProject.HomepageTest -->
+    </test> <!-- Test -->
+    <test started-at="2019-09-11T12:28:49 PDT" name="Navigation" finished-at="2019-09-11T12:29:02 PDT" duration-ms="13246">
+      <class name="com.phpProject.NavigationBarTest">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.phpProject.NavigationBarTest@1583741e]" started-at="2019-09-11T12:28:49 PDT" name="initializeBrowser" finished-at="2019-09-11T12:29:01 PDT" duration-ms="11936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="navigationTest()[pri:0, instance:com.phpProject.NavigationBarTest@1583741e]" started-at="2019-09-11T12:29:01 PDT" name="navigationTest" finished-at="2019-09-11T12:29:01 PDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method signature="searchTest()[pri:0, instance:com.phpProject.NavigationBarTest@1583741e]" started-at="2019-09-11T12:29:01 PDT" name="searchTest" finished-at="2019-09-11T12:29:01 PDT" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.phpProject.NavigationBarTest@1583741e]" started-at="2019-09-11T12:29:01 PDT" name="teardown" finished-at="2019-09-11T12:29:02 PDT" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.phpProject.NavigationBarTest -->
+    </test> <!-- Navigation -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.phpProject.Listen"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.phpProject.HomepageTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- com.phpProject.HomepageTest -->
+      <class name="com.phpProject.NavigationBarTest">
+        <methods>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- com.phpProject.NavigationBarTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test name="Navigation(failed)">
+    <classes>
+      <class name="com.phpProject.HomepageTest">
+        <methods>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- com.phpProject.HomepageTest -->
+      <class name="com.phpProject.NavigationBarTest">
+        <methods>
+          <include name="defaultGuestsTest"/>
+          <include name="navigationTest"/>
+          <include name="searchTest"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- com.phpProject.NavigationBarTest -->
+    </classes>
+  </test> <!-- Navigation(failed) -->
+</suite> <!-- Failed suite [Suite] -->

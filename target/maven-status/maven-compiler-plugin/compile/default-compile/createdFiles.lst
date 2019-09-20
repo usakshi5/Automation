@@ -1,0 +1,6 @@
+com\phpProject\BaseClass.class
+pageObjects\LoginPage.class
+pageObjects\Homepage.class
+database\JDBCConnection.class
+pageObjects\Register.class
+com\phpProject\NavigationHomepage.class
