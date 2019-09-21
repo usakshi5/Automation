@@ -37,7 +37,10 @@ public class NavigationBarTest extends BaseClass {
 		log.info("search text tested");
 	}
 	
-	
+	@Test
+	public void print() {
+		
+	}
 	@AfterTest
 	public void teardown() {
 		driver.close();
